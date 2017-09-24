@@ -99,3 +99,16 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+*.autosave
+*.pyc
+*.user
+*.*~
+*.egg-info
+.DS_Store
+.idea/
+*/dist/
+src/build/
+src/dist/
+src/wtss.egg-info
